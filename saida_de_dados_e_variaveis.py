@@ -1,6 +1,6 @@
 #Ao adicionar o valor 10 na variavel "codigo", automaticamente ela será reconhecida como tipo inteiro
 codigo = 10
-nome = 'Armando'
+nome = 'Fernanda'
 salario = 2000.00
 ativo = True
 
