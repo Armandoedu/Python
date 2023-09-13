@@ -1,0 +1,4 @@
+##STRENGTH
+
+I did this hangman game project with the focus on my studies and improving my programming logic.
+In this little game the user will try to guess the letter of one of the four random words that exist, they will have 6 chances, if the chances run out the program will end informing that the user has lost.
